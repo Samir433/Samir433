@@ -1,22 +1,22 @@
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Samir433&label=Profile%20views&color=0e75b6&style=flat" alt="Samir433" />
 </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+💻;Welcome+to+my+GitHub!;I+am+Samir+Atpadkar;Machine+Learning+Engineer!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Guys!+👋;Welcome+to+my+GitHub!;I+am+Samir+Atpadkar;Machine+Learning+Engineer!&center=true&size=30&color=61dafb">
   </a>
 </h1>
 
-<h2 align="center"> 🚀 About Me 🚀 </h2>
+<h2 align="center">⚡ About Me ⚡</h2>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python&logoColor=black" />
   <img src="https://img.shields.io/badge/-Java-ffb90f?style=flat-square&logo=Java&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Scikit--learn-green?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-purple?style=flat-square&logo=deep-learning&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MachineLearning-red?style=flat-square&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/-TensorFlow-ff6f61?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-ff5b00?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-FF5C00?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-8E24AA?style=flat-square&logo=deep-learning&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MachineLearning-F44336?style=flat-square&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F61?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-FF5B00?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenAI-00A3E0?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=postgresql&logoColor=white" />
@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center">💻 Projects 💻</h2>
+<h2 align="center">💼 Projects 💼</h2>
 <div align="center">
   <a href="https://github.com/Samir433/whatsapp-chat-analysis" title="WhatsApp Chat Analysis Live App">
     <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=whatsapp-chat-analysis&theme=react&border_color=61dafb&border_radius=8">
@@ -74,5 +74,3 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
-
----
