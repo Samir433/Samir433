@@ -46,11 +46,11 @@
 
 <h2 align="center">💼 Projects 💼</h2>
 <div align="center">
-  <a href="https://github.com/Samir433/TalentHire" title="TalentHire">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=TalentHire&theme=radical&border_color=ff69b4&border_radius=10">
+  <a href="https://github.com/Samir433/whatsapp-chat-analysis" title="What Chat Analysis Live App">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=TalentHire&theme=radical&border_color=ff69b4&border_radius=8">
   </a>
-  <a href="https://github.com/Samir433/connect-Hub" title="connect-Hub">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=connect-Hub&theme=radical&border_color=ff69b4&border_radius=10">
+  <a href="https://github.com/Samir433/PDF_QA_USING_OPENAI_API" title="PDF Chat BOT">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=connect-Hub&theme=radical&border_color=ff69b4&border_radius=8">
   </a>
 </div>
 
