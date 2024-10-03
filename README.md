@@ -18,11 +18,22 @@
 <h2 align="center"> 🚀 About Me 🚀 </h2>
 <p align="center"> 
   <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-orange?style=flat-square&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-red?style=flat-square&logo=deep-learning&logoColor=white" />
   <img src="https://img.shields.io/badge/-MachineLearning-green?style=flat-square&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/-DataScience-purple?style=flat-square&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=hugging-face&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Transformers-blue?style=flat-square&logo=hugging-face&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DSA-important?style=flat-square&logo=algolia&logoColor=white" />
 </p>
+
 
 ---
 
@@ -46,11 +57,11 @@
 
 <h2 align="center">💼 Projects 💼</h2>
 <div align="center">
-  <a href="https://github.com/Samir433/whatsapp-chat-analysis" title="What Chat Analysis Live App">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=TalentHire&theme=radical&border_color=ff69b4&border_radius=8">
+  <a href="https://github.com/Samir433/whatsapp-chat-analysis" title="WhatsApp Chat Analysis Live App">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=whatsapp-chat-analysis&theme=radical&border_color=ff69b4&border_radius=8">
   </a>
   <a href="https://github.com/Samir433/PDF_QA_USING_OPENAI_API" title="PDF Chat BOT">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=connect-Hub&theme=radical&border_color=ff69b4&border_radius=8">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=PDF_QA_USING_OPENAI_API&theme=radical&border_color=ff69b4&border_radius=8">
   </a>
 </div>
 
@@ -66,6 +77,9 @@
   </a>
   <a href="https://www.kaggle.com/samiratpadkar" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://leetcode.com/u/Samir04/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
