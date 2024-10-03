@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samir433&label=Profile%20views&color=6a0dad&style=flat" alt="Samir433" />
+  <img src="https://komarev.com/ghpvc/?username=Samir433&label=Profile%20views&color=FF5733&style=flat" alt="Samir433" />
 </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;Welcome+to+my+GitHub!;I+am+Samir+Atpadkar;AI+ML+Engineer!&center=true&size=30&width=500&height=50&color=6a0dad&background=ffffff">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;Welcome+to+my+GitHub!;I+am+Samir+Atpadkar;Machine+Learning+Engineer!&center=true&size=30&width=500&height=50&color=FF5733&background=ffffff">
   </a>
 </h1>
 
 <h2 align="center"> 🚀 About Me 🚀 </h2>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/-Java-ffb90f?style=flat-square&logo=Java&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Scikit--learn-green?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-purple?style=flat-square&logo=deep-learning&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MachineLearning-red?style=flat-square&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/-TensorFlow-ff6f61?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-ff5b00?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-FF4F1B?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-7C3AED?style=flat-square&logo=deep-learning&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MachineLearning-FF6F61?style=flat-square&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F61?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenAI-00A3E0?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HuggingFace-FF4F1B?style=flat-square&logo=hugging-face&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FC5C7D?style=flat-square&logo=hugging-face&logoColor=white" />
   <img src="https://img.shields.io/badge/-Transformers-6F44F8?style=flat-square&logo=hugging-face&logoColor=white" />
   <img src="https://img.shields.io/badge/-DSA-1e90ff?style=flat-square&logo=algolia&logoColor=white" />
 </p>
@@ -31,11 +31,11 @@
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
-  <img align="center" width="48%" src="https://streak-stats.demolab.com/?user=Samir433&theme=radical&border=6a0dad&hide_border=true" alt="GitHub Streak" />
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Samir433&show_icons=true&theme=radical&border_color=6a0dad&hide_border=true" alt="GitHub Stats" />
+  <img align="center" width="48%" src="https://streak-stats.demolab.com/?user=Samir433&theme=radical&border=FF5733&hide_border=true" alt="GitHub Streak" />
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Samir433&show_icons=true&theme=radical&border_color=FF5733&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir433&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=radical&layout=compact&border_color=6a0dad&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir433&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=radical&layout=compact&border_color=FF5733&hide_border=true" />
 </p>
 
 ---
@@ -50,10 +50,10 @@
 <h2 align="center">💼 Projects 💼</h2>
 <div align="center">
   <a href="https://github.com/Samir433/whatsapp-chat-analysis" title="WhatsApp Chat Analysis Live App">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=whatsapp-chat-analysis&theme=radical&border_color=6a0dad&border_radius=8">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=whatsapp-chat-analysis&theme=radical&border_color=FF5733&border_radius=8">
   </a>
   <a href="https://github.com/Samir433/PDF_QA_USING_OPENAI_API" title="PDF Chat BOT">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=PDF_QA_USING_OPENAI_API&theme=radical&border_color=6a0dad&border_radius=8">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=PDF_QA_USING_OPENAI_API&theme=radical&border_color=FF5733&border_radius=8">
   </a>
 </div>
 
