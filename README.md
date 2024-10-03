@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;Welcome+to+my+GitHub!;I+am+Samir+Atpadkar;Machine+Learning+Engineer!&center=true&size=30&color=61dafb">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Guys!+👋;Welcome+to+my+GitHub!;I+am+Samir+Atpadkar;Machine+Learning+Engineer&center=true&size=30&color=61dafb">
   </a>
 </h1>
 
@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center">💼 Projects 💼</h2>
+<h2 align="center">💻 Projects 💻</h2>
 <div align="center">
   <a href="https://github.com/Samir433/whatsapp-chat-analysis" title="WhatsApp Chat Analysis Live App">
     <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=whatsapp-chat-analysis&theme=react&border_color=61dafb&border_radius=8">
